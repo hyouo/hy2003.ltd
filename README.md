@@ -6,6 +6,7 @@ beginning:
 
  项目
 
+[建议课程](https://book.ncrnalab.org/teaching/)
 
 ## AI
  论文
